@@ -6,12 +6,16 @@
 
 * [Waffles](breakfast/waffles.md)
 
-## Dessert
+## Entree
 
-* [Cookies](dessert/cookies/README.md)
-  * [Chocolate Chip](dessert/cookies/chocolate-chip.md)
+* [Burger Patties](entree/burger-patties.md)
 
 ## Slow Cooker
 
 * [Coconut Curry](slow-cooker/coconut-curry.md)
+
+## Dessert
+
+* [Cookies](dessert/cookies/README.md)
+  * [Chocolate Chip](dessert/cookies/chocolate-chip.md)
 
