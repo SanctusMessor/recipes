@@ -19,19 +19,16 @@ description: Serves 10
 * 670 g / 23 oz coconut milk 
 * 250 g / 8⅚ oz carrots 
 * 930 g / 2.1 lb chicken breasts \(or skinless thighs\) 
-* 1⅔ red bell peppers Olive oil spray
-* Lime 
-* Peanuts
-* Red pepper flakes 
-
-Rice
+* 1⅔ red bell peppers Olive oil spray 
+* 1⅔ tbsp garlic 
 * 83 g / 2.9 oz green onion 
 * 1500 g / 3⅓ lb brown or white rice \(cooked\) 
 * 130 ml / 4⅔ fl oz vegetable broth \(low sodium\) 
 * 670 g / 23 oz purple cabbage \(optional\) 
 * Fresh cilantro \(coriander\) 
- 
-
+* Red pepper flakes 
+* Lime 
+* Peanuts
 
 ### Directions
 
@@ -42,5 +39,5 @@ Rice
 5. Spray the nonstick skillet with olive oil \(or coconut oil\), then add garlic and green onion. Cook for 2 minutes.
 6. Add the veggie stock to the skillet, toss in the cooked rice, and mix everything together; allowing the mixture to integrate with the rice.
 7. Stir the curry and season to taste with sea salt & pepper.
-8. Garnish with Lime, Peanuts, and Red Pepper Flakes, and enjoy the curry with rice!
+8. Garnish and enjoy the curry with rice!
 
