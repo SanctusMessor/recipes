@@ -4,7 +4,7 @@ description: Serves 10
 
 # Coconut Curry
 
-### Ingredients
+## Ingredients
 
 * 1⅔ tbsp coconut oil 
 * 1⅔ tbsp garlic 
@@ -12,7 +12,7 @@ description: Serves 10
 * 170 g / 6 oz red onions 
 * 6⅔ tbsp thai red curry paste 
 * 1⅔ tbsp fish sauce
-*  5 tbsp tamari sauce 
+* 5 tbsp tamari sauce 
 * 3⅓ tbsp coconut sugar or palm sugar 
 * 200 ml / 7 fl oz vegetable broth \(low sodium\) 
 * 270 g / 9½ oz peanut butter 
@@ -25,15 +25,14 @@ description: Serves 10
 * Red pepper flakes 
 
 Rice
+
 * 83 g / 2.9 oz green onion 
 * 1500 g / 3⅓ lb brown or white rice \(cooked\) 
 * 130 ml / 4⅔ fl oz vegetable broth \(low sodium\) 
 * 670 g / 23 oz purple cabbage \(optional\) 
 * Fresh cilantro \(coriander\) 
- 
 
-
-### Directions
+## Directions
 
 1. Set a nonstick skillet on medium heat, and add coconut oil, garlic, ginger and onion. Cook for 2 minutes and be careful not to burn the garlic.
 2. Add curry paste and cook for an additional minute.

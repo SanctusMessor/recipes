@@ -1,8 +1,6 @@
 # Burger Patties
 
-
-
-### Ingredients
+## Ingredients
 
 * 2lbs ground beef
 * 1 egg, beaten
@@ -12,7 +10,7 @@
 * 1/8 tsp cayenne pepper
 * 2 clove garlic, minced
 
-### Directions
+## Directions
 
 1. In a large bowl, mix the ground beef, egg, bread crumbs, evaporated milk, Worcestershire sauce, cayenne pepper, and garlic using your hands. Form the mixture into ~8 hamburger patties.
 
